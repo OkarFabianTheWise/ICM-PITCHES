@@ -1,19 +1,3 @@
-> **Retail investors struggle with knowledge gaps and emotional reactions to market volatility — Fiatrouter solves this with AI-managed, creator-led pools that automate smart diversification across growth, yield, and safety.**
-
-✅ This version clearly:
-
-* States the pain (knowledge + volatility)
-* States the cure (AI + creators + automation)
-* Sounds like a scalable, tech-first financial product.
-
----
-
-### 🧩 Canva Pitch Deck Layout (Slide-by-Slide Copy)
-
-Here’s how to structure your **Canva slides** using that sentence as the narrative core 👇
-
----
-
 #### **Slide 1 — Title**
 
 **Fiatrouter**
